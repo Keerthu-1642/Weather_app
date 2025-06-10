@@ -1,4 +1,5 @@
  🌤 Weather App
+ 
  🚀 Features
 - 🌍 Search for the weather of any location.
 - 🌡 Displays temperature, humidity, and weather conditions.
